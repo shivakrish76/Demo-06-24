@@ -14,7 +14,6 @@ public class Tool {
         this.chargeOnWeekends = chargeOnWeekends;
         this.chargeOnHolidays = chargeOnHolidays;
     }
-
     public String getCode() { return code; }
     public String getType() { return type; }
     public String getBrand() { return brand; }
